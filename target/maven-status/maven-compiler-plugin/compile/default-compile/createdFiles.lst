@@ -1,0 +1,5 @@
+pages\DashboardPage.class
+pages\BasePage.class
+org\example\Main.class
+pages\LoginPage.class
+pages\HomePage.class
